@@ -1,0 +1,11 @@
+{
+    "name": "Never Mind NFT",
+    "symbol": "NMN",
+    "description": "What ever never minds.",
+    "seller_fee_basis_points": 50,
+    "image": "https://github.com/Waffelesser/nft/metadata/img/nevermind.png",
+    "collection": {
+       "name": "Useless NFT",
+       "family": "Unknown"
+    }
+  }
